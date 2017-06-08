@@ -1,0 +1,15 @@
+{
+  "key": {
+    "type": "service_account",
+    "project_id": "starwarscharacters-81bdf",
+    "private_key_id": "45e1fc69947185d36cb0c9c942771ff1ddac1745",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpxVJVe9iJWFoN\nHPnP8qNaMg3cAjarKgmJUCo1vm4bM6aQLUYf4LLwyXkRtEIN5JXrdlAmqZZD3/1P\nIg+HtZeDIaRvFjApV2wZYK0kIEduA1AjLmDSbNHBSTt7dS/Y21DKGoC1HNaeITvX\nEymJ2wfHKs1zjtccUUKVvjAFAqjIkwjSAS3hb+SIUe8bJBwiDiKyzRMNBp/F+JrP\nn2nh0T8hwAIps3HCK5egeOT+EhBR9ZE7+F7xqeMxgeZDHIc9+73+I8TPRW2KZt3e\noOwjJz0TAbEBrozAhPe8Jpiyc5p94PTtzFGJDTNCnaj0jWihWPkLWBRRCyAFBMvE\nwJuDnTRPAgMBAAECggEABjOZEFpXzJyXnYcDcR8x7GeLrg++o34Dnyp4gEIWj5PR\nb87Xku6IWtdhPs5Q42UIPPOzddYYER6riCp8Wr69bCLceNpcpAX3gu3PJVSwh0pD\nsSVOkCE9gEwGijn7p3ZLezaAoR0OkfQw1Whzyf9gR1w+6Qu8u+IUBphN9MDmHX2C\nR9UbUv99BgBvBV2+najNr1kXdKUskxnmJrllrIVhSjRlR3HhK5M6PkdMj6HFt20V\nD5cNJbwRXz6MkG02zW0JagnAa9+Y8bZUhh4IqgWjrmHS9W27piC4Gh2ZoCB+usF8\nI+y+OXCcYSOIbTXuTiX/fARynGqvGO8hqByUgx6GkQKBgQDRTwKdOlHVuDAn/1Dl\nev6+ho0l288x6bd9gYTL/ORKGPP7JHvTHU0+cFL9fIeQRqF8qvasf/vh3ZcK3L7S\ngKtjGjbgJq1GZVlcN5pRyYGjc/cHIP1bU268JFXKB54nhooLwUEP1EWNrvxgE0BM\n+XqHUAbWkCwAu/iQ+FRbNcXvUwKBgQDPpGxemLOMnzbXYlHTRIdw/R2fKJguT+gC\n7sRiqVuMEdAlaB0/h/QurmEOVJfUZNqNHbhC703cMDW7Nx/7CJzUd16fMQpFX7rt\nm6GS29wrDJhQj4/tpRS2DNVTgi+cG+NTh46poF+DK7MVC2Uc7jL2HUaxypIugsSF\nTjclLMtTlQKBgBF9LJa+nL/i2AM/jh7enBKHY5vaNgHRqYdPHy18QAcA9sHxVndZ\nZ27kK8sKcLlZbXzhPCNFvmItBcXelAM6xRdOxW8NTEUpisHt03MqBy8FLYrm8sSC\nwCnwT0rGQCzFTRuWVj1gWz9vc58DfMfxwI813JxpB4Q4MJjMZyAH6jYJAoGBAIyt\nOCKK0DJ4d95KpWc+KYj6Y8Q964SM7IJ4I6M4XGa0dtGxDQfK4ztxNx5PX6ItRgiP\nVxQ6LwT7wJt7SHZ6Kk6kJP4zamL/7ZQnebsWq76axOLnsLpvum1wmmL+c6UPG9+u\nmo//sFYdGDIsyy9jjjFCOnAf7xQF0oECMchE5ehVAoGBALtAgtjhRquTFZaVjIdW\nmCYYMZRjdpyqF4U+jVpRTxqKtG2obvu8+MRIxUSgUrO6LYpaI4v+TCx/+dA7n1x+\n1+Nsrgsi4Az2tic9CRQBnP3fquzmarT4D9vbIJR6z9PyACOYbDmKMhpA7hw3GEwY\nb2f/gPHzmR1do21XP/KEtEBO\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-nxqdz@starwarscharacters-81bdf.iam.gserviceaccount.com",
+    "client_id": "107454415822687464869",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nxqdz%40starwarscharacters-81bdf.iam.gserviceaccount.com"
+  },
+  "databaseURL": "https://starwarscharacters-81bdf.firebaseio.com"
+}
